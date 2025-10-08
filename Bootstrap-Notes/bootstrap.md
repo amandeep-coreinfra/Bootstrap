@@ -45,6 +45,7 @@ Ui server: This is external component within coreservices that bootstrap uses to
 Go to path:
 C:\nmr\SystemStarup\
 ![SystemStartup Folder](../Images/BootstrapInConsole.png)
+
 where configurations is for bootstrap and Process is for Process Manager.
 Configurations contains set of processes. when you add any process and refresh the mrbootconigmanager, it will refelct the processes in the UI.
 Configuration contains one background folder that contains all the .start files of background processes.
